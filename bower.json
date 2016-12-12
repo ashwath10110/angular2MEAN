@@ -1,0 +1,21 @@
+{
+  "name": "mytasklist",
+  "description": "Simple task manager",
+  "main": "server.js",
+  "authors": [
+    "Ashwath Bharadwaj <gmail@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ashwath10110/angular2MEAN",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
